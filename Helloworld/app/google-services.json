@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737302667706",
+    "project_id": "notification-de65c",
+    "storage_bucket": "notification-de65c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737302667706:android:6dd4c2dbcd92a86b267d83",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737302667706-9b5gmiedr52110kbf4lslgg1lfaqpmgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwhx1e7HqWIxJXt-gtukGBP2AZeG2Y5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737302667706-9b5gmiedr52110kbf4lslgg1lfaqpmgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

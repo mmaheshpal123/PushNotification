@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushNotificationDemo</string>
+    <string name="btn_text">Click</string>
+    <string name="welcome_text">WELCOME</string>
+
+
+</resources>
