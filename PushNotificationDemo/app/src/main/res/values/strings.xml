@@ -2,6 +2,10 @@
     <string name="app_name">PushNotificationDemo</string>
     <string name="btn_text">Click</string>
     <string name="welcome_text">WELCOME</string>
+    <string name="notification_Id">notification_channel</string>
+    <string name="message">Body: </string>
+    <string name="crash_btn">CLICK TO CRASH </string>
+    <string name="title">Title: </string>
 
 
 </resources>

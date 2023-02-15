@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileDownLoader</string>
+    <string name="edit_text_hint">Input URl</string>
+    <string name="button_text">DownLoad</string>
+</resources>
